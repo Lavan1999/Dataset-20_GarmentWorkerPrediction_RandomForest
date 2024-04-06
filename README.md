@@ -22,3 +22,6 @@ This dataset includes important attributes of the garment manufacturing process 
 - 13 idle_time : The amount of time when the production was interrupted due to several reasons
 - 14 idle_men : The number of workers who were idle due to production interruption
 - 15 actual_productivity : The actual % of productivity that was delivered by the workers. It ranges from 0-1.
+
+ ## Conclusion:
+This dataset can be used for regression purpose by predicting the productivity range (0-1) or for classification purpose by transforming the productivity range (0-1) into different classes.
