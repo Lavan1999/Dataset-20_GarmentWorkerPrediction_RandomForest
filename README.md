@@ -7,7 +7,7 @@ This dataset includes important attributes of the garment manufacturing process 
 
 ## Attribute Information:
 
-- 01 date : Date in MM-DD-YYYY
+- 01 date : Date in MM-DD-YYYY format
 - 02 day : Day of the Week
 - 03 quarter : A portion of the month. A month was divided into four quarters
 - 04 department : Associated department with the instance
